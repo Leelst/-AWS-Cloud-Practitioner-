@@ -6,7 +6,7 @@ notion으로 정리했습니다. 아래 링크에서 확인해주세요.
 <br>
 
 
-[AWS Cloud Practitioner badge](https://www.youracclaim.com/badges/9f7e051f-1a41-4c17-a867-271a8ed9e380](https://www.youracclaim.com/badges/9f7e051f-1a41-4c17-a867-271a8ed9e380)
+[AWS Cloud Practitioner badge](https://www.youracclaim.com/badges/9f7e051f-1a41-4c17-a867-271a8ed9e380)
 
 <br>
 
